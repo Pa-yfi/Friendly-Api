@@ -1,4 +1,4 @@
-# friendly api — terminal chatbot
+# Terminal chatbot
 
 A tiny Python chatbot that runs in your terminal. You type a question, it sends the question to Google's Gemini API, and prints the answer back. Type `exit` to quit.
 
